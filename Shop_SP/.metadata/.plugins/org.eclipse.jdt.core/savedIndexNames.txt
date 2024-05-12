@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+C:\Users\leeta\LTW\Shop_Test\.metadata\.plugins\org.eclipse.jdt.core
+2049589556.index
+2565356412.index
+690836113.index
+2649075700.index
+1865797976.index
+2522479522.index
+1737685109.index
